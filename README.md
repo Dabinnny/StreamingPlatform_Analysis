@@ -1,11 +1,6 @@
 # StreamingPlatform_Analysis
 
-## ✔️ Disney+ vs Netflix Analysis
-
-</br> 
-
-넷플릭스와 디즈니+는 전 세계적으로 가장 인기 있는 Media Streaming Platform입니다.  
-두 플랫폼의 주요 콘텐츠, user들의 특성을 비교하고 분석한 프로젝트입니다.  
+## ✔️ Disney+ vs Netflix Analysis  
 
 </br> 
 
@@ -16,6 +11,10 @@
 
 </br> 
 
+넷플릭스와 디즈니+는 전 세계적으로 가장 인기 있는 Media Streaming Platform입니다.  
+두 플랫폼의 주요 콘텐츠, user들의 특성을 비교하고 분석한 프로젝트입니다.  
+
+</br> 
 
 ## ✔️ Data 특성  
 
@@ -23,7 +22,9 @@
 
 |Netflix|Disney+|
 |:---:|:---:|
-|8807 x 11|1450 x 11|  
+|8807 x 11|1450 x 11| 
+
+</br> 
 
 **2. 데이터 특성**  
 - `show_id` : user ID
@@ -38,6 +39,8 @@
 - `duration` : 상영시간
 - `listed_in` : 장르
 - `description` : 줄거리  
+
+</br> 
 
 **3. 분석 내용**  
 (1) 주요 콘텐츠(Movie or TV show)는 무엇일까?  
@@ -110,7 +113,7 @@
 - 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/162562812-90900e93-a075-4e72-a2af-6facd9454236.png" ></div>  
+<img src="https://user-images.githubusercontent.com/90162819/162562812-90900e93-a075-4e72-a2af-6facd9454236.png" width = 700></div>  
 
 </br> 
 
