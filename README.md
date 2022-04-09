@@ -2,8 +2,6 @@
 
 ## ✔️ Disney+ vs Netflix Analysis  
 
-</br> 
-
 <div align="center">
 <img src="https://podecomparar.com.br/sites/podecomparar.com.br/files/2020-12/disney-plus-vs-netflix-825x293.png"></div>
 
@@ -93,7 +91,7 @@
 - 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/162562746-bc981664-ea2a-439f-96d5-13003b764fe2.png" ></div>   
+<img src="https://user-images.githubusercontent.com/90162819/162562746-bc981664-ea2a-439f-96d5-13003b764fe2.png" width = 800 ></div>   
 
 </br> 
 </br>
@@ -113,12 +111,12 @@
 - 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/162562812-90900e93-a075-4e72-a2af-6facd9454236.png" width = 700></div>  
+<img src="https://user-images.githubusercontent.com/90162819/162562812-90900e93-a075-4e72-a2af-6facd9454236.png" width = 750></div>  
 
 </br> 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/162562815-11220848-ee1a-4c5e-b768-f8d326744021.png" ></div>  
+<img src="https://user-images.githubusercontent.com/90162819/162562815-11220848-ee1a-4c5e-b768-f8d326744021.png" width = 750 ></div>  
 
 </br> 
 </br>
@@ -128,7 +126,7 @@
 - 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90162819/162562872-ed9d1352-bdd3-47dc-8c4e-8e12d28e5029.png" ></div>  
+<img src="https://user-images.githubusercontent.com/90162819/162562872-ed9d1352-bdd3-47dc-8c4e-8e12d28e5029.png" width = 750></div>  
 
 
 
